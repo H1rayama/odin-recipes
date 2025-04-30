@@ -1,12 +1,16 @@
 * {
     font-family: sans-serif, Arial, Helvetica;
 }
+body {
+    background-color: #D9D8D2;
+}
 .card {
     width: 400px;
     border: solid black 2px;
     border-radius: 15px;
     margin: auto;
     padding: 5px;
+    background-color: #F2F2EB;
 }
 
 h1 {
