@@ -5,6 +5,9 @@
 body {
     background-color: #D9D8D2;
 }
+.home {
+    position: fixed;
+}
 .card {
     border: solid black 2px;
     padding: 5px;
