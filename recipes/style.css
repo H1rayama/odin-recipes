@@ -1,8 +1,18 @@
+* {
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+body {
+    background-color: #D9D8D2;
+}
 .card {
     border: solid black 2px;
     padding: 5px;
     width: 500px;
     margin: auto;
+    border-radius: 20px;
+    background-color: #F2F2EB;
+
 }
 
 h1 {
@@ -15,18 +25,9 @@ img {
     margin: auto;
 }
 
-.description {
-    border: solid black 2px;
-}
-
-.ingredients {
-    border: solid black 2px;
-}
-.steps {
-    border: solid black 2px;
-}
-
 .ingredients, .steps, .description{
     padding: 5px;
     margin: 5px;
+    border: solid black 2px;
+    border-radius: 20px;
 }
