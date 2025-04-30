@@ -23,6 +23,7 @@ img {
     width: 430px;
     display: block;
     margin: auto;
+    border-radius: 20px;
 }
 
 .ingredients, .steps, .description{
